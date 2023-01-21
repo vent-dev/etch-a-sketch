@@ -1,5 +1,11 @@
+body {
+    margin: 0;
+}
+
 .gridContainer {
     display: flex;
+    border: 2rem solid red;
+    border-radius: 1rem;
+    max-width: fit-content;
     flex-direction: row;
-    width: 1rem;
 }
