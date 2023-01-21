@@ -1,0 +1,5 @@
+.gridContainer {
+    display: flex;
+    flex-direction: row;
+    width: 1rem;
+}
